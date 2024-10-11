@@ -1,0 +1,110 @@
+Task: Gaussian Elimination
+Inputs: Matrix size: 3
+Row 0: 3.000000 1.000000 -1.000000 
+Result: 4.000000
+Row 1: 0.000000 3.333333 1.666667 
+Result: -1.666667
+Row 2: 0.000000 0.000000 3.500000 
+Result: 3.500000
+Result: 2.000000 -1.000000 1.000000 
+Execution Time: 0 milliseconds
+-----------------------
+Task: Polynomial Evaluation
+Inputs: Coefficients: 3.000000 2.000000 1.000000 
+Evaluation points: 2.000000 
+Result: x=2.000000: 17.000000
+
+Execution Time: 0 milliseconds
+-----------------------
+Task: Numerical Integration
+Inputs: a: 3.000000, b: 0.000000, sub-intervals: 2
+Result: nan
+Execution Time: 0 milliseconds
+-----------------------
+Task: Numerical Integration
+Inputs: a: 0.000000, b: 2.000000, sub-intervals: 1000
+Result: -1.333332
+Execution Time: 0 milliseconds
+-----------------------
+Task: Gaussian Elimination
+Inputs: Matrix size: 3
+Row 0: 3.000000 1.000000 -1.000000 
+Result: 4.000000
+Row 1: 0.000000 3.333333 1.666667 
+Result: -1.666667
+Row 2: 0.000000 0.000000 3.500000 
+Result: 3.500000
+Result: 2.000000 -1.000000 1.000000 
+Execution Time: 0 milliseconds
+-----------------------
+Task: Polynomial Evaluation
+Inputs: Coefficients: 3.000000 2.000000 1.000000 
+Evaluation points: 2.000000 
+Result: x=2.000000: 17.000000
+
+Execution Time: 0 milliseconds
+-----------------------
+Task: Numerical Integration
+Inputs: a: 3.000000, b: 5.000000, sub-intervals: 5000
+Result: 28.666667
+Execution Time: 0 milliseconds
+-----------------------
+Task: Monte Carlo Pi Estimation
+Inputs: Number of points: 5668, Number of threads: 4
+Result: 3.148200
+Execution Time: 0 milliseconds
+-----------------------
+Task: Gaussian Elimination
+Inputs: Matrix size: 3
+Row 0: 3.000000 1.000000 -1.000000 
+Result: 4.000000
+Row 1: 0.000000 3.333333 1.666667 
+Result: -1.666667
+Row 2: 0.000000 0.000000 3.500000 
+Result: 3.500000
+Result: 2.000000 -1.000000 1.000000 
+Execution Time: 0 milliseconds
+-----------------------
+Task: Polynomial Evaluation
+Inputs: Coefficients: 3.000000 2.000000 1.000000 
+Evaluation points: 2.000000 
+Result: x=2.000000: 17.000000
+
+Execution Time: 0 milliseconds
+-----------------------
+Task: Numerical Integration
+Inputs: a: 3.000000, b: 5.000000, sub-intervals: 5000
+Result: 28.666667
+Execution Time: 0 milliseconds
+-----------------------
+Task: Monte Carlo Pi Estimation
+Inputs: Number of points: 6987, Number of threads: 4
+Result: 3.167597
+Execution Time: 0 milliseconds
+-----------------------
+Task: Newton-Raphson Root Finding
+Inputs: Initial guesses: 12.000000 55.000000 
+Result: Initial guess: 12.000000, Root: 1.414214
+Initial guess: 55.000000, Root: 1.414214
+
+Execution Time: 0 milliseconds
+-----------------------
+Task: Newton-Raphson Root Finding
+Inputs: Initial guesses: 1.000000 2.000000 
+Result: Initial guess: 1.000000, Root: 1.414214
+Initial guess: 2.000000, Root: 1.414214
+
+Execution Time: 0 milliseconds
+-----------------------
+Task: Monte Carlo Pi Estimation
+Inputs: Number of points: 87895, Number of threads: 4
+Result: 3.143706
+Execution Time: 0 milliseconds
+-----------------------
+Task: Concurrent Algorithm Execution
+Inputs: Non-linear Solver completed in 3 ms
+Monte Carlo Pi Estimation completed in 16 ms
+
+Result: Multiple algorithms run
+Execution Time: 0 milliseconds
+-----------------------
